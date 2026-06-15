@@ -1,5 +1,6 @@
 # Vegetarian lasagna recipe
 
+Vegan in aborigeneese is a word for bad hunter!
 
 ## Ingredients
 
