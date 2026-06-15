@@ -1,3 +1,5 @@
 ## Steamed Eggs
 
-Containes eggs
+3 eggs
+1 pan
+a bit of boiling water
