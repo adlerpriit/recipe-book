@@ -4,4 +4,5 @@
 * You'll need a pan and a stove
 * Kettle and boiling water
 
-First heat up the pan
+First, find the pan
+Then heat up the pan and search for the eggs
