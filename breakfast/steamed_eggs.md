@@ -4,5 +4,5 @@
 * You'll need a pan and a stove
 * Kettle and boiling water
 
-First, find the pan
-Then heat up the pan and search for the eggs
+First, heat up the pan
+Second, break up the eggs over the pan
